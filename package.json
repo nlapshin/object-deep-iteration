@@ -1,0 +1,25 @@
+{
+  "name": "object-deep-iteration",
+  "version": "1.0.0",
+  "description": "\"Iterates over a object of elements, yielding each in turn to an iteratee function. Iterates is a deep dive into object.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nlapshin/object-deep-iteration.git"
+  },
+  "author": "nlapshin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nlapshin/object-deep-iteration/issues"
+  },
+  "homepage": "https://github.com/nlapshin/object-deep-iteration#readme",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2"
+  }
+}
